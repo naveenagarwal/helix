@@ -1,6 +1,6 @@
 WARNING: This repository is still in active development. **The vast majority of important Ruby
 APIs are not yet supported**, because we are still in the process of formulating the rules for
-binding Ruby APIs (so that we can make things ergonomic and provide **safety guarantees**).
+binding Ruby APIs (so that we can make things ergonomic and provide **safety guarantees**)
 
 Short-term TODOs:
 
